@@ -30,7 +30,7 @@ Bot odpowiedzialny za nadzorowanie autonomicznym sklepem discord nitro, współp
     <li>Bramka płatności Crypto na podstawie blockchaina brzy urzuciu api.blockchair.com</li>
 </ul>
 
-<h2>Uwagi: <h2>
+<h2>Uwagi: </h2>
 <ul>
     <li>Plik konfiguracyjny aby program móg być możliwie uniwersalny</li>
     <li>Zabezpieczenie przed urzywaniem zurzytych hashy crypto</li>
