@@ -3,8 +3,8 @@ Bot odpowiedzialny za nadzorowanie autonomicznym sklepem discord nitro, współp
 
 <h2>Informacje ogólne</h2>
 <ul>
-<li> Język: Python </li>
-<li> Użyte biblioteki zewnętrzne:
+<li> <b>Język:</b> Python </li>
+<li> <b>Użyte biblioteki zewnętrzne:</b>
 <ul>
     <li>requests</li>
     <li>imaplib</li>
@@ -18,5 +18,10 @@ Bot odpowiedzialny za nadzorowanie autonomicznym sklepem discord nitro, współp
     <li>discord_components</li>
     <li>discord.py</li>
 </ul>
-<li>
+</ul>
+
+<h2> Mechaniki zawarte w programie: </h2>
+<ul>
+    <li>Lokalna baza danych na podstawie blikow JSON</li>
+    <li>Weryfikacja poprawności tokenów discord urzytkowników poprzez obsługe discord.com/api/v9</li>
 </ul>
