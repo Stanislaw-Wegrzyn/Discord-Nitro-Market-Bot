@@ -23,5 +23,20 @@ Bot odpowiedzialny za nadzorowanie autonomicznym sklepem discord nitro, współp
 <h2> Mechaniki zawarte w programie: </h2>
 <ul>
     <li>Lokalna baza danych na podstawie blikow JSON</li>
+    <li>Kolejka klijętów i ceny produktów automatycznie i regularnie aktualizowane</li>
     <li>Weryfikacja poprawności tokenów discord urzytkowników poprzez obsługe discord.com/api/v9</li>
+    <li>Obsłuaga wielu serwerów vps poprze poołączenie ssh</li>
+    <li>Bramka płatności PayPal na podstawie skanowania emaili poprzez imap</li>
+    <li>Bramka płatności Crypto na podstawie blockchaina brzy urzuciu api.blockchair.com</li>
 </ul>
+
+<h2>Uwagi: <h2>
+<ul>
+    <li>Plik konfiguracyjny aby program móg być możliwie uniwersalny</li>
+    <li>Zabezpieczenie przed urzywaniem zurzytych hashy crypto</li>
+    <li>Zabezpieczenie przed nagłym przerwaniem procedury płatności</li>
+    <li>Baza danych na plikach może nie jest najlepszym rozwiązaniem ale oszczędza to czas podczas konfiguracji</li>
+  </ul>
+  
+<h4><i>PS.</i></h4>
+<p><i>Nie chwaląc się (może trochę) wartość programu przez kilka osób zajmujących się biznesami tego typu została wyznaczona na $200…</i></p>
