@@ -40,5 +40,3 @@ Bot odpowiedzialny za nadzorowanie autonomicznym sklepem discord nitro, współp
   
 <h4><i>PS.</i></h4>
 <p><i>Program może wyglądać haotycznie ponieważ jest on wciąż w produkcji i użtku</i></p>
-
-<h4>Warto wspommnieć że każdą linijke tego kodu napisał ja i tylko ja... i większość przed powstaniem ChatGPT </h4>
