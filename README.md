@@ -39,4 +39,6 @@ Bot odpowiedzialny za nadzorowanie autonomicznym sklepem discord nitro, współp
   </ul>
   
 <h4><i>PS.</i></h4>
-<p><i>Nie chwaląc się (może trochę) wartość programu przez kilka osób zajmujących się biznesami tego typu została wyznaczona na $200…</i></p>
+<p><i>Program może wyglądać haotycznie ponieważ jest on wciąż w produkcji i użtku</i></p>
+
+<h4>Warto wspommnieć że każdą linijke tego kodu napisał ja i tylko ja... i większość przed powstaniem ChatGPT </h4>
