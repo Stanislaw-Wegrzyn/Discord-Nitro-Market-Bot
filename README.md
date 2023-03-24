@@ -32,7 +32,7 @@ Bot odpowiedzialny za nadzorowanie autonomicznym sklepem discord nitro, współp
 
 <h2>Uwagi: </h2>
 <ul>
-    <li>Plik konfiguracyjny aby program móg być możliwie uniwersalny</li>
+    <li>Plik konfiguracyjny aby program mógł być możliwie uniwersalny</li>
     <li>Zabezpieczenie przed urzywaniem zurzytych hashy crypto</li>
     <li>Zabezpieczenie przed nagłym przerwaniem procedury płatności</li>
     <li>Baza danych na plikach może nie jest najlepszym rozwiązaniem ale oszczędza to czas podczas konfiguracji</li>
