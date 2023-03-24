@@ -23,7 +23,7 @@ Bot odpowiedzialny za nadzorowanie autonomicznym sklepem discord nitro, współp
 <h2> Mechaniki zawarte w programie: </h2>
 <ul>
     <li>Lokalna baza danych na podstawie blikow JSON</li>
-    <li>Kolejka klijętów i ceny produktów automatycznie i regularnie aktualizowane</li>
+    <li>Kolejka klijentów i ceny produktów automatycznie i regularnie aktualizowane</li>
     <li>Weryfikacja poprawności tokenów discord urzytkowników poprzez obsługe discord.com/api/v9</li>
     <li>Obsłuaga wielu serwerów vps poprze poołączenie ssh</li>
     <li>Bramka płatności PayPal na podstawie skanowania emaili poprzez imap</li>
